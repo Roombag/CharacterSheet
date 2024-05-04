@@ -107,7 +107,8 @@
     "languages":[
       "common",
       "orcish"
-    ],
+    ]
+  },
     "equipment": {
       "currency": {
         "copper pieces": 0,
@@ -121,4 +122,4 @@
     "faction": ["Bekannt und beliebt in Dreieber", "Vernetzt mit traumatisierten Veteranan", "Verbündeter des Minotaurendorfes"]
   }
   
-}
+
