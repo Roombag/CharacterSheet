@@ -5,7 +5,7 @@
   "class": "Cleric",
   "variant": "Tempest Domain",
   "level": 6,
-  "experience": 0,
+  "experiencepoints": 0,
   "race": "Half-Orc",
   "background": {
     "alignment": "Neutral Good",
